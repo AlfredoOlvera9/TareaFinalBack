@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6111C58F-DDE2-4196-BBC0-5B62C8C11F16}|APIRest.API\\APIRest.API.csproj|C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\apirest.api\\controllers\\alumnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6111C58F-DDE2-4196-BBC0-5B62C8C11F16}|APIRest.API\\APIRest.API.csproj|solutionrelative:apirest.api\\controllers\\alumnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6111C58F-DDE2-4196-BBC0-5B62C8C11F16}|APIRest.API\\APIRest.API.csproj|c:\\users\\cesaralfredoolverabe\\desktop\\apirest.api\\apirest.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6111C58F-DDE2-4196-BBC0-5B62C8C11F16}|APIRest.API\\APIRest.API.csproj|solutionrelative:apirest.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6111C58F-DDE2-4196-BBC0-5B62C8C11F16}|APIRest.API\\APIRest.API.csproj|C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\apirest.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6111C58F-DDE2-4196-BBC0-5B62C8C11F16}|APIRest.API\\APIRest.API.csproj|solutionrelative:apirest.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F2B080-21B5-4596-A4D7-6EBA9CC15275}|APIRest.API.Negocio\\APIRest.API.Negocio.csproj|C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\apirest.api.negocio\\colegio\\implementacion\\servicioalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F2B080-21B5-4596-A4D7-6EBA9CC15275}|APIRest.API.Negocio\\APIRest.API.Negocio.csproj|solutionrelative:apirest.api.negocio\\colegio\\implementacion\\servicioalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F2B080-21B5-4596-A4D7-6EBA9CC15275}|APIRest.API.Negocio\\APIRest.API.Negocio.csproj|C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\apirest.api.negocio\\colegio\\implementacion\\iservicioalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F2B080-21B5-4596-A4D7-6EBA9CC15275}|APIRest.API.Negocio\\APIRest.API.Negocio.csproj|solutionrelative:apirest.api.negocio\\colegio\\implementacion\\iservicioalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832C2418-8026-4E90-87ED-BDA2FBFA5711}|APIRest.API.Model\\APIRest.API.Model.csproj|C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\apirest.api.model\\conexion\\conexionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832C2418-8026-4E90-87ED-BDA2FBFA5711}|APIRest.API.Model\\APIRest.API.Model.csproj|solutionrelative:apirest.api.model\\conexion\\conexionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832C2418-8026-4E90-87ED-BDA2FBFA5711}|APIRest.API.Model\\APIRest.API.Model.csproj|C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\apirest.api.model\\conexion\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832C2418-8026-4E90-87ED-BDA2FBFA5711}|APIRest.API.Model\\APIRest.API.Model.csproj|solutionrelative:apirest.api.model\\conexion\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832C2418-8026-4E90-87ED-BDA2FBFA5711}|APIRest.API.Model\\APIRest.API.Model.csproj|C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\apirest.api.model\\colegio\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832C2418-8026-4E90-87ED-BDA2FBFA5711}|APIRest.API.Model\\APIRest.API.Model.csproj|solutionrelative:apirest.api.model\\colegio\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832C2418-8026-4E90-87ED-BDA2FBFA5711}|APIRest.API.Model\\APIRest.API.Model.csproj|C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\apirest.api.model\\colegio\\alumnosextend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832C2418-8026-4E90-87ED-BDA2FBFA5711}|APIRest.API.Model\\APIRest.API.Model.csproj|solutionrelative:apirest.api.model\\colegio\\alumnosextend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832C2418-8026-4E90-87ED-BDA2FBFA5711}|APIRest.API.Model\\APIRest.API.Model.csproj|C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\apirest.api.model\\colegio\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832C2418-8026-4E90-87ED-BDA2FBFA5711}|APIRest.API.Model\\APIRest.API.Model.csproj|solutionrelative:apirest.api.model\\colegio\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832C2418-8026-4E90-87ED-BDA2FBFA5711}|APIRest.API.Model\\APIRest.API.Model.csproj|C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\apirest.api.model\\colegio\\implementacion\\ialumnosdatamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832C2418-8026-4E90-87ED-BDA2FBFA5711}|APIRest.API.Model\\APIRest.API.Model.csproj|solutionrelative:apirest.api.model\\colegio\\implementacion\\ialumnosdatamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832C2418-8026-4E90-87ED-BDA2FBFA5711}|APIRest.API.Model\\APIRest.API.Model.csproj|C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\apirest.api.model\\colegio\\implementacion\\alumnosdatamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832C2418-8026-4E90-87ED-BDA2FBFA5711}|APIRest.API.Model\\APIRest.API.Model.csproj|solutionrelative:apirest.api.model\\colegio\\implementacion\\alumnosdatamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832C2418-8026-4E90-87ED-BDA2FBFA5711}|APIRest.API.Model\\APIRest.API.Model.csproj|C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\apirest.api.model\\generales\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832C2418-8026-4E90-87ED-BDA2FBFA5711}|APIRest.API.Model\\APIRest.API.Model.csproj|solutionrelative:apirest.api.model\\generales\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD28384E-2FB6-468A-9E06-25DA9012E6AA}|APIRest.API.Datos\\APIRest.API.Datos.csproj|C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\apirest.api.datos\\apirest.api.datos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD28384E-2FB6-468A-9E06-25DA9012E6AA}|APIRest.API.Datos\\APIRest.API.Datos.csproj|solutionrelative:apirest.api.datos\\apirest.api.datos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F2B080-21B5-4596-A4D7-6EBA9CC15275}|APIRest.API.Negocio\\APIRest.API.Negocio.csproj|C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\apirest.api.negocio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F2B080-21B5-4596-A4D7-6EBA9CC15275}|APIRest.API.Negocio\\APIRest.API.Negocio.csproj|solutionrelative:apirest.api.negocio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832C2418-8026-4E90-87ED-BDA2FBFA5711}|APIRest.API.Model\\APIRest.API.Model.csproj|C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\apirest.api.model\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832C2418-8026-4E90-87ED-BDA2FBFA5711}|APIRest.API.Model\\APIRest.API.Model.csproj|solutionrelative:apirest.api.model\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD28384E-2FB6-468A-9E06-25DA9012E6AA}|APIRest.API.Datos\\APIRest.API.Datos.csproj|C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\apirest.api.datos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD28384E-2FB6-468A-9E06-25DA9012E6AA}|APIRest.API.Datos\\APIRest.API.Datos.csproj|solutionrelative:apirest.api.datos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlumnosController.cs",
+              "DocumentMoniker": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API\\Controllers\\AlumnosController.cs",
+              "RelativeDocumentMoniker": "APIRest.API\\Controllers\\AlumnosController.cs",
+              "ToolTip": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API\\Controllers\\AlumnosController.cs",
+              "RelativeToolTip": "APIRest.API\\Controllers\\AlumnosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:14:08.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IServicioAlumnos.cs",
+              "DocumentMoniker": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Negocio\\Colegio\\Implementacion\\IServicioAlumnos.cs",
+              "RelativeDocumentMoniker": "APIRest.API.Negocio\\Colegio\\Implementacion\\IServicioAlumnos.cs",
+              "ToolTip": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Negocio\\Colegio\\Implementacion\\IServicioAlumnos.cs",
+              "RelativeToolTip": "APIRest.API.Negocio\\Colegio\\Implementacion\\IServicioAlumnos.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:11:40.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Carrera.cs",
+              "DocumentMoniker": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Model\\Colegio\\Carrera.cs",
+              "RelativeDocumentMoniker": "APIRest.API.Model\\Colegio\\Carrera.cs",
+              "ToolTip": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Model\\Colegio\\Carrera.cs",
+              "RelativeToolTip": "APIRest.API.Model\\Colegio\\Carrera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:11:35.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AlumnosExtend.cs",
+              "DocumentMoniker": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Model\\Colegio\\AlumnosExtend.cs",
+              "RelativeDocumentMoniker": "APIRest.API.Model\\Colegio\\AlumnosExtend.cs",
+              "ToolTip": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Model\\Colegio\\AlumnosExtend.cs",
+              "RelativeToolTip": "APIRest.API.Model\\Colegio\\AlumnosExtend.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:11:34.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConnectionString.cs",
+              "DocumentMoniker": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Model\\Conexion\\ConnectionString.cs",
+              "RelativeDocumentMoniker": "APIRest.API.Model\\Conexion\\ConnectionString.cs",
+              "ToolTip": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Model\\Conexion\\ConnectionString.cs",
+              "RelativeToolTip": "APIRest.API.Model\\Conexion\\ConnectionString.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:02:17.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API\\appsettings.json",
+              "RelativeDocumentMoniker": "APIRest.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API\\appsettings.json",
+              "RelativeToolTip": "APIRest.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-05T19:51:06.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicioAlumnos.cs",
+              "DocumentMoniker": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Negocio\\Colegio\\Implementacion\\ServicioAlumnos.cs",
+              "RelativeDocumentMoniker": "APIRest.API.Negocio\\Colegio\\Implementacion\\ServicioAlumnos.cs",
+              "ToolTip": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Negocio\\Colegio\\Implementacion\\ServicioAlumnos.cs",
+              "RelativeToolTip": "APIRest.API.Negocio\\Colegio\\Implementacion\\ServicioAlumnos.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAwwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:11:42.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConexionSql.cs",
+              "DocumentMoniker": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Model\\Conexion\\ConexionSql.cs",
+              "RelativeDocumentMoniker": "APIRest.API.Model\\Conexion\\ConexionSql.cs",
+              "ToolTip": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Model\\Conexion\\ConexionSql.cs",
+              "RelativeToolTip": "APIRest.API.Model\\Conexion\\ConexionSql.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:02:15.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAlumnosDataMapper.cs",
+              "DocumentMoniker": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Model\\Colegio\\Implementacion\\IAlumnosDataMapper.cs",
+              "RelativeDocumentMoniker": "APIRest.API.Model\\Colegio\\Implementacion\\IAlumnosDataMapper.cs",
+              "ToolTip": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Model\\Colegio\\Implementacion\\IAlumnosDataMapper.cs",
+              "RelativeToolTip": "APIRest.API.Model\\Colegio\\Implementacion\\IAlumnosDataMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:01:01.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AlumnosDataMapper.cs",
+              "DocumentMoniker": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Model\\Colegio\\Implementacion\\AlumnosDataMapper.cs",
+              "RelativeDocumentMoniker": "APIRest.API.Model\\Colegio\\Implementacion\\AlumnosDataMapper.cs",
+              "ToolTip": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Model\\Colegio\\Implementacion\\AlumnosDataMapper.cs",
+              "RelativeToolTip": "APIRest.API.Model\\Colegio\\Implementacion\\AlumnosDataMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:53:02.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API\\Program.cs",
+              "RelativeDocumentMoniker": "APIRest.API\\Program.cs",
+              "ToolTip": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API\\Program.cs",
+              "RelativeToolTip": "APIRest.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:51:34.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Alumnos.cs",
+              "DocumentMoniker": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Model\\Colegio\\Alumnos.cs",
+              "RelativeDocumentMoniker": "APIRest.API.Model\\Colegio\\Alumnos.cs",
+              "ToolTip": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Model\\Colegio\\Alumnos.cs",
+              "RelativeToolTip": "APIRest.API.Model\\Colegio\\Alumnos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:59:00.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Model\\Generales\\Response.cs",
+              "RelativeDocumentMoniker": "APIRest.API.Model\\Generales\\Response.cs",
+              "ToolTip": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Model\\Generales\\Response.cs",
+              "RelativeToolTip": "APIRest.API.Model\\Generales\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:53:41.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "APIRest.API.Datos",
+              "DocumentMoniker": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Datos\\APIRest.API.Datos.csproj",
+              "RelativeDocumentMoniker": "APIRest.API.Datos\\APIRest.API.Datos.csproj",
+              "ToolTip": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Datos\\APIRest.API.Datos.csproj",
+              "RelativeToolTip": "APIRest.API.Datos\\APIRest.API.Datos.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-05T19:52:13.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Negocio\\Class1.cs",
+              "RelativeDocumentMoniker": "APIRest.API.Negocio\\Class1.cs",
+              "ToolTip": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Negocio\\Class1.cs",
+              "RelativeToolTip": "APIRest.API.Negocio\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:49:10.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Model\\Class1.cs",
+              "RelativeDocumentMoniker": "APIRest.API.Model\\Class1.cs",
+              "ToolTip": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Model\\Class1.cs",
+              "RelativeToolTip": "APIRest.API.Model\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:48:31.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Datos\\Class1.cs",
+              "RelativeDocumentMoniker": "APIRest.API.Datos\\Class1.cs",
+              "ToolTip": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Datos\\Class1.cs",
+              "RelativeToolTip": "APIRest.API.Datos\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:47:53.676Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
